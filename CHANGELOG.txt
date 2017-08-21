@@ -1,0 +1,3 @@
+literate-giggle v1.0
+- Added README
+- Added CHANGELOG
