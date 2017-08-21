@@ -1,3 +1,6 @@
+literate-giggle v1.1
+- Removed README
+
 literate-giggle v1.0
 - Added README
 - Added CHANGELOG
